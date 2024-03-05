@@ -6,6 +6,7 @@
 
 <div align="center">
 <a href="http://www.github.com/pasinduV"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pasinduV&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/pasinduV"><img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pasinduV&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide_border=true"/></a>
 </div>
 <hr/>
   
