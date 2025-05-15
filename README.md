@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pasindu Vishmitha
 - 🌱 I am currently pursuing a BSc (Hons) in Engineering, specializing in Computer Engineering at the University of Sri Jayewardenepura.
 - 👀I am interested in full-stack development, machine learning, data science, image processing, and augmented reality (AR). Additionally, I have a passion for coding and designing 2D illustrations. In my free time, I enjoy playing video games.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Any of you can reach me via my email pasinduv20@gmail.com
 
 <div align="center">
